@@ -1,0 +1,2 @@
+# satyam
+simple python program
